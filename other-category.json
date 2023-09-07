@@ -1,0 +1,42 @@
+[
+    {
+      "id": 0,
+      "name": "acrylic",
+      "para": "Acrylic is a transparent plastic material with outstanding strength, stiffness, and optical clarity.",
+      "img": "./images/abstract-acrylic-painting.jpg",
+      "link": "./other categories/acrylic/index.html",
+      "docs":"./documents/Acrylic-sheet.docx"
+    },
+    {
+      "id": 1,
+      "name": "canvas",
+      "para": "Canvas is a durable plain-woven fabric usually made from cotton or hemp yarn. It is used to create crafts and paintings.",
+      "img": "./images/canvas-painting.jpg",
+      "link": "./other categories/canvas/index.html",
+      "docs":"./documents/Canvas.docx"
+    },
+    {
+      "id": 2,
+      "name": "paper",
+      "para": "construction paper, or any similar heavy paper used for art or craft projects",
+      "img": "./images/paper-painting.jpg",
+      "link": "./other categories/paper/index.html",
+      "docs":"./documents/Paper.docx"
+    },
+    {
+      "id": 3,
+      "name": "OHP sheet",
+      "para": "OHP sheet is Transparent like a glass and serves justice in replacing the glass by this material. OHP sheet is lighter easier to work with and tension free of missing",
+      "img": "./images/OHP-sheet-painting.jpg",
+      "link": "./other categories/OHP sheet/index.html",
+      "docs":"./documents/OHP-sheet.docx"
+    },
+    {
+      "id": 4,
+      "name": "fabric",
+      "para": "Fabric painting is a skill of applying colors on the fabric to make it attractive which is very exciting experience.",
+      "img": "./images/fabric-painting.jpg",
+      "link": "./other categories/fabric/index.html",
+      "docs":"./documents/Fabric-painting.docx"
+    }
+  ]

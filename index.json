@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "abstract painting",
+    "para": "Abstract art uses visual language of shape, form, color and line to create a composition which may exist with a degree of independence from visual references in the world.",
+    "img": "./images/abstract-acrylic-color.jpg",
+    "link":"./GALLERIA CATEGORIES/abstract-painting/index.html",
+    "docs":"./documents/Abstract-painting.docx"
+  },
+  {
+    "id": 1,
+    "name": "LANDSCAPE PAINTING",
+    "para": "Landscape painting, also known as landscape art, is the depiction of natural scenery such as mountains, valleys, trees, and forests, .etc.",
+    "img": "./images/landscape-painting.jpg",
+    "link":"./GALLERIA CATEGORIES/landscape-painting/index.html",
+    "docs":"./documents/Landscape-painting.docx"
+  },
+  {
+    "id": 2,
+    "name": "Nature painting",
+    "para": "A nature painting is a painting that references natural elements such as mountains, trees, or bodies of water.",
+    "img": "./images/nature-painting.jpg",
+    "link":"./GALLERIA CATEGORIES/nature-painting/index.html",
+    "docs":"./documents/Nature-painting.docx"
+  },
+  {
+    "id": 3,
+    "name": "flower painting",
+    "para": "Flower painting, especially, held a spiritual and emotional meaning for Japanese artists and for 19th-century European painters, such as Odilon Redon, Paul Gauguin, and van Gogh.",
+    "img": "./images/flower-paintings.jpg",
+    "link":"./GALLERIA CATEGORIES/flower-painting/index.html",
+    "docs":"./documents/Flower-painting.docx"
+  },
+  {
+    "id": 4,
+    "name": "figurative painting",
+    "para": ": Any form of modern art that retains strong references to the real world and particularly to the human figure.",
+    "img": "./images/figurative-painting.jpg",
+    "link":"./GALLERIA CATEGORIES/figurative-painting/index.html",
+    "docs":"./documents/Figurative-painting.docx"
+  },
+  {
+    "id": 5,
+    "name": "religious painting",
+    "para": "Religious art is a visual representation of religious ideologies and their relationship with humans. Sacred art directly relates to religious art in the sense that its purpose is for worship and religious practices.",
+    "img": "./images/religious-painting.jpg",
+    "link":"./GALLERIA CATEGORIES/religious-painting/index.html",
+    "docs":"./documents/Religious-painting.docx"
+  },
+  {
+    "id": 6,
+    "name": "calligraphy art",
+    "para": "Calligraphy is a visual art related to writing and is the design and execution of lettering with a pen, ink brush, or other writing instrument.",
+    "img": "./images/calligraphy-art-painting.jpg",
+    "link":"./GALLERIA CATEGORIES/calligraphy/index.html",
+    "docs":"./documents/Calligraphy-art.docx"
+  }
+]

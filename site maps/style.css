@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+}
+
+.imglogo{
+    height: 90px;
+    width: 90px;
+}
+
+.navbar-brand{
+    
+    background: -webkit-linear-gradient(#48139c, #e68888, #3df80377);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+section {
+    border-bottom: 1px solid #ccc;
+    margin-top: 1em;
+  }
+  
+  section .col-md-3 {
+    border-left: 1px solid #ccc;
+  }
+  
+  section .col-md-3:first-child {
+    border: none;
+  }
+
+.foot-logo{
+  height: 250px;
+  width: 250px;
+}
+
+.slogan{
+  width: 115px;
+  position: relative;
+  top: -110px;
+  left: 144px;
+  font-weight: 700;
+}
+
+.row ul li a{
+  text-decoration: none;
+  color: #000000;
+  opacity: 0.7;
+}
+
+.row ul li a:hover{
+  opacity: 1;
+}
+  

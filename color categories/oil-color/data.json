@@ -1,0 +1,32 @@
+[
+    {
+      "para": "T his painting is made from acrylic colours",
+      "img": "./images/oilcolor-abstract.jpg",
+      "docs":"./documents/abstract-oil.docx"
+    },
+    {
+      "para": "Flower painting has a meaning about a harmony and also sometimes describes a sense of love and romantic atmosphere.",
+      "img": "./images/oilcolor-canvas.jpg",
+      "docs":"./documents/canvas-oil.docx"
+    },
+    {
+      "para": "Flower painting has a meaning about a harmony and also sometimes describes a sense of love and romantic atmosphere.",
+      "img": "./images/oilcolor-canvas 1.jpg",
+      "docs":"./documents/mosque-oil.docx"
+    },
+    {
+      "para": "Flower painting has a meaning about a harmony and also sometimes describes a sense of love and romantic atmosphere.",
+      "img": "./images/oilcolor-canvas 2.jpg",
+      "docs":"./documents/mosque-oil.docx"
+    },
+    {
+      "para": "Flower painting has a meaning about a harmony and also sometimes describes a sense of love and romantic atmosphere.",
+      "img": "./images/oilcolor-nature 1.jpg",
+      "docs":"./documents/canvas-oil.docx"
+    },
+    {
+      "para": "Flower painting has a meaning about a harmony and also sometimes describes a sense of love and romantic atmosphere.",
+      "img": "./images/paper-oil-color 1.jpg",
+      "docs":"./documents/flower-oil.docx"
+    }
+  ]

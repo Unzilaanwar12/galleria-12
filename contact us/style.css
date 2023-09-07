@@ -1,0 +1,354 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins, sans-serif;
+  list-style-type: none;
+}
+
+.imglogo {
+  height: 90px;
+  width: 90px;
+}
+
+.navbar-brand {
+  background: -webkit-linear-gradient(#48139c, #e68888, #3df80377);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
+
+.bi {
+  font-size: 1.5em;
+}
+
+.bi:hover {
+  color: #346fd4;
+}
+
+.foot-logo {
+  height: 250px;
+  width: 250px;
+}
+
+.slogan {
+  width: 115px;
+  position: relative;
+  top: -110px;
+  left: 144px;
+  font-weight: 700;
+}
+
+.row ul li a {
+  text-decoration: none;
+  color: #000000;
+  opacity: 0.7;
+}
+
+.row ul li a:hover {
+  opacity: 1;
+}
+
+.con_num {
+  font-size: 20px;
+  font-weight: 300;
+  text-decoration: none;
+  color: black;
+  margin-left: 10px;
+}
+
+address {
+  margin-top: 20px;
+
+}
+
+.icon_img {
+  width: 50px;
+  height: 50px;
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+
+.accordion {
+  width: 400px;
+  padding: 34px;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 10px 25px rgba(124, 130, 141, 0.2);
+  position: relative;
+  transform-style: preserve-3d;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+}
+
+@media (max-width: 400px) {
+  .accordion {
+    width: 240px;
+  }
+}
+
+.accordion::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(white, white) padding-box, linear-gradient(135deg, rgb(123, 104, 238) 0%, rgb(235, 61, 174) 33%, rgb(247, 206, 81) 66%, rgb(91, 197, 250) 100%) border-box;
+  border: 2px dashed transparent;
+  border-radius: 8px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translateZ(-10px) rotate(5deg);
+}
+
+.accordion .tab {
+  cursor: pointer;
+}
+
+.accordion .tab:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.accordion .tab-name {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: #292d34;
+  position: relative;
+  user-select: none;
+  padding: 10px;
+  border-radius: 8px;
+  transition: all 0.5s ease;
+}
+
+@media (max-width: 400px) {
+  .accordion .tab-name {
+    font-size: 20px;
+  }
+}
+
+.accordion .tab-name .chevron-icon {
+  fill: #292d34;
+  position: absolute;
+  left: calc(100% - 10px);
+  top: 50%;
+  transform: translate(-100%, -50%);
+  transition: all 0.5s ease;
+}
+
+.accordion .tab-content {
+  user-select: none;
+  color: #7c828d;
+  max-height: 0;
+  overflow: hidden;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 9px;
+  transition: all 0.5s linear;
+  animation: slideDownReverse 0.5s ease forwards;
+}
+
+.accordion .tab.active .tab-name {
+  color: white;
+}
+
+.accordion .tab.active .tab-content {
+  color: white;
+  max-height: 300px;
+  animation: slideDown 1s ease-out forwards;
+}
+
+.accordion .tab.active .chevron-icon {
+  transform: translate(-100%, -50%) rotate(180deg);
+  fill: white;
+}
+
+.accordion .tab:nth-of-type(1).active .tab-name {
+  background: linear-gradient(45deg, rgb(123, 66, 209) 0%, rgb(123, 104, 238) 100%);
+  box-shadow: 0 10px 25px rgba(123, 66, 209, 0.4);
+}
+
+.accordion .tab:nth-of-type(1).active .tab-content {
+  background: linear-gradient(45deg, rgb(123, 66, 209) 0%, rgb(123, 104, 238) 100%);
+  box-shadow: 0 10px 25px rgba(123, 66, 209, 0.4);
+}
+
+.accordion .tab:nth-of-type(2).active .tab-name {
+  background: linear-gradient(45deg, rgb(245, 205, 81) 0%, rgb(247, 206, 81) 100%);
+  box-shadow: 0 10px 25px rgba(245, 205, 81, 0.4);
+}
+
+.accordion .tab:nth-of-type(2).active .tab-content {
+  background: linear-gradient(45deg, rgb(245, 205, 81) 0%, rgb(247, 206, 81) 100%);
+  box-shadow: 0 10px 25px rgba(245, 205, 81, 0.4);
+}
+
+.accordion .tab:nth-of-type(3).active .tab-name {
+  background: linear-gradient(45deg, rgb(222, 23, 152) 0%, rgb(235, 61, 174) 100%);
+  box-shadow: 0 10px 25px rgba(222, 23, 152, 0.4);
+}
+
+.accordion .tab:nth-of-type(3).active .tab-content {
+  background: linear-gradient(45deg, rgb(222, 23, 152) 0%, rgb(235, 61, 174) 100%);
+  box-shadow: 0 10px 25px rgba(222, 23, 152, 0.4);
+}
+
+.accordion .tab:nth-of-type(4).active .tab-name {
+  background: linear-gradient(45deg, rgb(42, 179, 248) 0%, rgb(91, 197, 250) 100%);
+  box-shadow: 0 10px 25px rgba(42, 179, 248, 0.4);
+}
+
+.accordion .tab:nth-of-type(4).active .tab-content {
+  background: linear-gradient(45deg, rgb(42, 179, 248) 0%, rgb(91, 197, 250) 100%);
+  box-shadow: 0 10px 25px rgba(42, 179, 248, 0.4);
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes slideDownReverse {
+  from {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+}
+
+button {
+  color: rgb(134, 125, 170);
+  text-decoration: none;
+  font-size: 18px;
+  border: none;
+  background: none;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 40px;
+}
+
+button::before {
+  margin-left: auto;
+}
+
+button::after,
+button::before {
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: #f44336;
+  display: block;
+  transition: 0.5s;
+}
+
+button:hover::after,
+button:hover::before {
+  width: 100%;
+}
+
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input, textarea {
+  margin: 1em 0 1em 0;
+  width: 100%;
+  position: relative;
+}
+
+.input input, textarea {
+  font-size: 100%;
+  padding: 0.7em;
+  outline: none;
+  color: #141313;
+  border: none;
+  border-bottom: 2px solid #3d3939;
+  background: transparent;
+  border-radius: none;
+  width: 100%;
+  resize: none;
+}
+
+.input label {
+  font-size: 100%;
+  position: absolute;
+  left: 0;
+  color: #474545;
+  padding: 0.7em;
+  margin-left: 0.1em;
+  pointer-events: none;
+  transition: all 0.5s ease;
+  text-transform: uppercase;
+}
+
+.input :is(input:focus, input:valid)~label {
+  transform: translateY(-50%) scale(.9);
+  margin: 0em;
+  padding: 0.4em;
+  background: transparent;
+}
+
+.input textarea:focus ~ label,
+.input textarea:valid ~ label {
+  transform: translateY(-50%) scale(.9);
+  margin: 0em;
+  padding: 0.4em;
+  background: transparent;
+}
+
+.inputGroup :is(input:focus, input:valid) {
+  border-color: rgb(37, 37, 211);
+}
+
+.form button {
+  color: #332c2c;
+  font-size: 15px;
+  align-self: flex-start;
+  padding: 0.6em;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 50px;
+  background: transparent;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.form button:before {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #e8e8e8;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.form button:hover:before {
+  opacity: 0.2;
+}
+
+.form button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+

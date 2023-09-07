@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+body{
+  background: #fff8;
+}
+
+.imglogo{
+    height: 90px;
+    width: 90px;
+}
+
+.navbar-brand{
+    
+    background: -webkit-linear-gradient(#48139c, #e68888, #3df80377);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.heading{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin: 20px auto;
+}
+.heading h1{
+  font-size: 50px;
+  color: #000;
+  margin-bottom: 25px;
+  position: relative;
+
+}
+.heading h1::after{
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  display: block;
+  margin: 0 auto;
+  background-color: #37cd3c;
+
+}
+.heading p{
+  font-size: 18px;
+  text-align: left;
+  display: flex;
+  flex-wrap: nowrap;
+  color: #666;
+  margin-bottom: 35px;
+}
+.container{
+  padding: 10px 20px;
+  display: flex;
+  gap: 3px;
+}
+.about{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.about-img{
+  flex: 1;
+  margin-right: 40px;
+}
+.about-img img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-content h2{
+  font-size: 23px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  color:#005;
+}
+.about-content p{
+  font-size: 18px;
+  line-height: 1.5;
+  color: #666;
+}
+
+
+@media screen and (width: 768px){
+  .heading{
+    padding: 0px 20px;
+  }
+  .heading h1{
+    font-size: 36px;
+  }
+  .heading p{
+    font-size: 17px;
+    margin-bottom: 0px;
+  }
+  .container{
+    padding: 0px;
+    flex-direction: column-reverse;
+  }
+  .about{
+    padding: 20px;
+    flex-direction: column;
+  }
+  .about-img{
+     margin-right: 0px;
+     margin-bottom: 20px;
+  }
+  .about-content{
+    padding: 0px;
+    font-size: 16px;
+  }
+  .about-content .read-more{
+    font-size: 16px;
+
+  }
+  
+}
+
+
+
+
+
+/* footer css start */
+.foot-logo{
+    height: 250px;
+    width: 250px;
+  }
+  
+  .slogan{
+    width: 115px;
+    position: relative;
+    top: -110px;
+    left: 144px;
+    font-weight: 700;
+  }
+  
+  .row ul li a{
+    text-decoration: none;
+    color: #000000;
+    opacity: 0.7;
+  }
+  
+  .row ul li a:hover{
+    opacity: 1;
+  }
+  /*footer css end  */

@@ -1,0 +1,135 @@
+[
+    {
+      "id": 0,
+      "name": "abstract painting",
+      "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+      "img": "./images/acrylic 1.jpg",
+      "link": "/abstract-painting.docxcrylics.docx"
+    },
+    {
+        "id": 1,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/acrylic 2.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 2,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/acrylic 9.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 3,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/acrylic 10.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 4,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/acrylic-sheet.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 5,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/acrylicsheet-nature 1.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 6,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/canvas 1.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 7,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/canvas 2.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 8,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/nature-canvas 1.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 9,
+        "name": "abstract painting",
+        "para": "Abstract acrylic painting ideas especially for beginners or anyone who is having a creative stuck moment and wants to get to painting.",
+        "img": "./images/nature-canvas 2.jpg",
+        "link": "/abstract-painting.docxAcrylics.docx"
+      },
+      {
+        "id": 10,
+        "name": "abstract painting",
+        "para": "Abstract art is art that does not represent an accurate depiction of visual reality, communicating instead through lines, shapes, colours, forms and gestural marks.",
+        "img": "./images/nature-postercolor 2.jpg",
+        "link": "/abstract-painting.docxx"
+      },
+      {
+        "id": 11,
+        "name": "abstract painting",
+        "para": "Abstract art is art that does not represent an accurate depiction of visual reality, communicating instead through lines, shapes, colours, forms and gestural marks.",
+        "img": "./images/oilcolor-canvas.jpg",
+        "link": "/abstract-painting.docxx"
+      },
+      {
+        "id": 12,
+        "name": "abstract painting",
+        "para": "Abstract art is art that does not represent an accurate depiction of visual reality, communicating instead through lines, shapes, colours, forms and gestural marks.",
+        "img": "./images/paper 1.jpg",
+        "link": "/abstract-painting.docxx"
+      },
+      {
+        "id": 13,
+        "name": "abstract painting",
+        "para": "Abstract art is art that does not represent an accurate depiction of visual reality, communicating instead through lines, shapes, colours, forms and gestural marks.",
+        "img": "./images/postercolor 1.jpg",
+        "link": "/abstract-painting.docxx"
+      },
+      {
+        "id": 14,
+        "name": "abstract painting",
+        "para": "Abstract art is art that does not represent an accurate depiction of visual reality, communicating instead through lines, shapes, colours, forms and gestural marks.",
+        "img": "./images/postercolor 2.jpg",
+        "link": "/abstract-painting.docxx"
+      },
+      {
+        "id": 15,
+        "name": "abstract painting",
+        "para": "abstract art, also called nonobjective art or nonrepresentational art, painting, sculpture, or graphic art in which the portrayal of things from the visible world plays little or no part.",
+        "img": "./images/watercolor-paper 1.jpg",
+        "link": "/abstract-painting.docx"
+      },
+      {
+        "id": 15,
+        "name": "abstract painting",
+        "para": "abstract art, also called nonobjective art or nonrepresentational art, painting, sculpture, or graphic art in which the portrayal of things from the visible world plays little or no part.",
+        "img": "./images/watercolor-paper 2.jpg",
+        "link": "/abstract-painting.docx"
+      },
+      {
+        "id": 15,
+        "name": "abstract painting",
+        "para": "abstract art, also called nonobjective art or nonrepresentational art, painting, sculpture, or graphic art in which the portrayal of things from the visible world plays little or no part.",
+        "img": "./images/watercolor-paper 5.jpg",
+        "link": "/abstract-painting.docx"
+      },
+      {
+        "id": 15,
+        "name": "abstract painting",
+        "para": "abstract art, also called nonobjective art or nonrepresentational art, painting, sculpture, or graphic art in which the portrayal of things from the visible world plays little or no part.",
+        "img": "./images/watercolor-nature 3.jpg",
+        "link": "/abstract-painting.docx"
+      }
+  ]

@@ -1,0 +1,22 @@
+[
+    {
+      "para": "A landscape painting or drawing refers to an artwork whose primary focus is natural scenery, such as mountains, forests, cliffs, trees, rivers, valleys, etc.",
+      "img": "./images/ballpen 3.jpg",
+      "docs":"./documents/mosque-pen.docx"
+    },
+    {
+      "para": "landscape painting, the depiction of natural scenery in art. Landscape paintings may capture mountains, valleys, bodies of water, fields, forests, and coasts and may or may not include man-made structures as well as people.",
+      "img": "./images/ballpen-paper.jpg",
+      "docs":"./documents/ballpen-paper.docx"
+    },
+    {
+      "para": "landscape painting, the depiction of natural scenery in art. Landscape paintings may capture mountains, valleys, bodies of water, fields, forests, and coasts and may or may not include man-made structures as well as people.",
+      "img": "./images/ballpen-paper 2.jpg",
+      "docs":"./documents/ballpen-paper.docx"
+    },
+    {
+      "para": "A landscape painting or drawing refers to an artwork whose primary focus is natural scenery, such as mountains, forests, cliffs, trees, rivers, valleys, etc.",
+      "img": "./images/ballpen-paper 3.jpg",
+      "docs":"./documents/ballpen-paper.docx"
+    }
+  ]

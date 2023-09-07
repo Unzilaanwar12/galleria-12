@@ -1,0 +1,58 @@
+[
+    {
+        "name": "acrylic colour",
+        "para": "Acrylic paint is a type of paint that is mixed with a water-soluble resin. They are typically used to create a layer of paint on a surface.",
+        "img": "./images/acrylic-color.jpg",
+        "link": "./color categories/acrylic-color/index.html",
+        "docs":"./documents/Acrylic-color.docx"
+    },
+    {
+        "name": "ball point pen",
+        "para": "Ballpoint pens are among the various means of creating body art, as temporary tattoos for recreational, decorative and commercial purposes.",
+        "img": "./images/ball-point-pen.jpg",
+        "link": "./color categories/ball-point-pen/index.html",
+        "docs":"./documents/Ballpoint-pen.docx"
+    },
+    {
+        "name": "Charcoal",
+        "para": "Charcoal is an ancient medium to create some of history’s most iconic art pieces. It’s a versatile drawing material, and you can use it with different techniques depending on what you want to create.",
+        "img": "./images/charcoal.jpg",
+        "link": "./color categories/charcoal/index.html",
+        "docs":"./documents/Charcoal-painting.docx"
+    },
+    {
+        "name": "oil colour",
+        "para": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil.",
+        "img": "./images/oil-color.jpg",
+        "link": "./color categories/oil-color/index.html",
+        "docs":"./documents/Oil-painting.docx"
+    },
+    {
+        "name": "water colour",
+        "para": "Acrylic is a transparent plastic material with outstanding strength, stiffness, and optical clarity.",
+        "img": "./images/water-color.jpg",
+        "link": "./color categories/water-color/index.html",
+        "docs":"./documents/Watercolor-painting.docx"
+    },
+    {
+        "name": "poster colour",
+        "para": "Acrylic is a transparent plastic material with outstanding strength, stiffness, and optical clarity.",
+        "img": "./images/poster-color.jpg",
+        "link": "./color categories/poster-color/index.html",
+        "docs":"./documents/Poster-color.docx"
+    },
+    {
+        "name": "enamel colour",
+        "para": "Acrylic is a transparent plastic material with outstanding strength, stiffness, and optical clarity.",
+        "img": "./images/enamel-color.jpg",
+        "link": "./color categories/enamel-color/index.html",
+        "docs":"./documents/Enamel-paint.docx"
+    },
+    {
+        "name": "ink colour",
+        "para": "Acrylic is a transparent plastic material with outstanding strength, stiffness, and optical clarity.",
+        "img": "./images/ink-color.jpg",
+        "link": "./color categories/ink-color/index.html",
+        "docs":"./documents/Ink-color.docx"
+    }
+]
